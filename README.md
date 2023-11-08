@@ -14,7 +14,8 @@
 1.	File_Name
 2.	Region
 3.	Partner
-4.	Range,Value
+4.	Range
+5.	Value
 
 Имена столбцов должны содержаться в первой строке файла. Пример см. на листе «Result».
 
