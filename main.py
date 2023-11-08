@@ -56,7 +56,7 @@ def process_excel_file(file_path):
     return result_df
 
 
-file_path = '/home/by_onyx/Рабочий стол/BigData2023_Cases/case03_input_file..xlsx'
+file_path = 'case03_input_file..xlsx'
 result_df = process_excel_file(file_path)
 
 result_df.to_csv('Result.csv', index=False)
